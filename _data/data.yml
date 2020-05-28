@@ -111,13 +111,12 @@ projects:
       
     assignments:
       - title: AudtoDesk Eagle 
-        link: "#hook
+        link: "#"
         tagline: Made PCB layouts and other electrical boards in EAGLE.
 
       - title: Arduino
         link: "#"
-        tagline: In 1st semester in Electrical engineeering I made a model that measure a temperature of liquid 
-        and the temperature will display on LCD.Especially, this model can also measure temperature of chemicals in industry.
+        tagline: In 1st semester in Electrical engineeering I made a model that measure a temperature of liquid and the temperature will display on LCD. Especially, this model can also measure temperature of chemicals in industry.
 
       - title: AutoCad
         link: "#"
