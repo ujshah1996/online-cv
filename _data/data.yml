@@ -116,12 +116,18 @@ projects:
 
       - title: Arduino
         link: "#"
-        tagline: In 1st semester in Electrical engineeering I made a model that measure a temperature of liquid and the temperature will display on LCD. Especially, this model can also measure temperature of chemicals in industry.
+        tagline: Arduino is an electronics platform based on easy-to-use hardware & Software.It reads inputs like-light on sensor, a finger 
+         on a button and turn it into an output by activating a motor, turning on an LED.
+         In 1st semester in Electrical engineeering I made a model that measure a temperature of liquid and the temperature will display on LCD. Especially, this model can also measure temperature of chemicals in industry.
 
       - title: AutoCad
         link: "#"
         tagline:  Made Graphics & design for lots of Electrical Components in AUTOCAD.
-
+        
+      - title: TinkerCad
+        link: "#"
+        tagline:  It is 3D design program which is very useful in the world of Electronics.We can make 3D models. It is a popular platform for
+        creating models for 3D printing.
  
 skills:
     title: Skills &amp; Proficiency
