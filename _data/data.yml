@@ -168,13 +168,13 @@ skills:
       - name: Word, PowerPoint, Excel
         level: 73%
       
-        
-career-profile2:
+publications:
     title: References
-    summary: |
+    intro: |
       Linda Leblanc 
       Manager- Pizza Delight
-      +1 (506) 229-4951
+      +1 (506) 229-4951    
+      
       
 
 footer: >
